@@ -1,0 +1,6 @@
+setup.py
+pacman.egg-info/PKG-INFO
+pacman.egg-info/SOURCES.txt
+pacman.egg-info/dependency_links.txt
+pacman.egg-info/requires.txt
+pacman.egg-info/top_level.txt
